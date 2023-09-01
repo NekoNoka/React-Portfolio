@@ -21,7 +21,9 @@ export default function Footer() {
               color: "white",
             }}
           >
-            <h3>Check my socials</h3>
+            <h3>
+              Check my socials
+            </h3>
           </Divider>
         </Container>
         <Container>

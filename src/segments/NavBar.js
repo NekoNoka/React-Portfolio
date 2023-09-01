@@ -31,12 +31,22 @@ export default class NavBar extends Component {
               size="large"
             >
               <Container>
-                <Link to="/">
+                {/* <Link to="/React-Portfolio/">
                   <Menu.Item>
                     Home
                   </Menu.Item>
                 </Link>
-                <Link to="/aboutme">
+                <Link to="/React-Portfolio/projects">
+                  <Menu.Item>
+                    My Projects
+                  </Menu.Item>
+                </Link> */}
+                <Link to="/React-Portfolio/">
+                  <Menu.Item>
+                    My Projects
+                  </Menu.Item>
+                </Link>
+                <Link to="/React-Portfolio/aboutme">
                   <Menu.Item>
                     About Me
                   </Menu.Item>
